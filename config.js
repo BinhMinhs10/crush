@@ -1,8 +1,7 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Người ta thì thanh xuân như một ly trà
-    dăm ba mối tình hết bà thanh xuân,
-    anh đây đậm nhạt cũng được miễn là có em.`,
+    introDesc: `Hạnh phúc của anh chính là vì Em mà cố gắng, vì Em mà thay đổi.
+    Em chính là động lực tuyệt vời nhất trong cuộc đời anh.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
